@@ -9,8 +9,6 @@ dependencies:
 - scipy
 - pip:
   - qiskit
-  - scipy.io
-  - scipy.signal
   - math
   - struct
 
