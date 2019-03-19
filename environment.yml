@@ -1,0 +1,15 @@
+name: OCH-AKirke-env
+dependencies:
+- python==3.6
+- pip=18
+- matplotlib
+- notebook
+- ipywidgets
+- numpy 
+- scipy
+- scipy.io
+- scipy.signal
+- math
+- struct
+- pip:
+  - qiskit
