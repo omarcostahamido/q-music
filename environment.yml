@@ -7,9 +7,10 @@ dependencies:
 - ipywidgets
 - numpy 
 - scipy
-- scipy.io
-- scipy.signal
-- math
-- struct
 - pip:
   - qiskit
+  - scipy.io
+  - scipy.signal
+  - math
+  - struct
+
